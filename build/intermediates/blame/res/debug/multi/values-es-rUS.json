@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 97,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 391,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 391,
+                        "endOffset": 2420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 97,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2425,
+                        "endColumn": 97,
+                        "endOffset": 2518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 224,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2862,
+                        "endColumn": 224,
+                        "endOffset": 3082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 130,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2614,
+                        "endColumn": 130,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 116,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 116,
+                        "endOffset": 2857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 90,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2523,
+                        "endColumn": 90,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 108,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endColumn": 108,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 83,
+                    "endOffset": 1395
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 83,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1400,
+                    "endColumn": 87,
+                    "endOffset": 1483
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 87,
+                        "endOffset": 1821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1488,
+                    "endColumn": 82,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 82,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 105,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 105,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 116,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 116,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 135,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 135,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 151,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 151,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 157,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 157,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endColumn": 97,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-es-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endColumn": 97,
+                        "endOffset": 1919
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"ບ່ອນຈັດເກັບຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"ທ່ານກຳລັງຈະ 1) ສ້າງສຳເນົາຂອງຖານຂໍ້ມູນເຊິ່ງຈະມີ ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບລາຍຊື່ຜູ່ຕິດຕໍ່ ແລະບັນທຶກການໂທທັງໝົດ ເພື່ອຈັດເກັບໃນບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນ ແລະ 2) ສົ່ງມັນໄປທາງອີເມວ. ຫຼັງຈາກທ່ານສຳເນົາຂໍ້ມູນທີ່ສ້າງອອກຈາກອຸປະກອນນີ້ ຫຼືສົ່ງມັນຜ່ານທາງອີເມວສຳເລັດແລ້ວ ຢ່າລືມລຶບມັນອອກໂດຍທັນທີ."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"ລຶບອອກດຽວນີ້"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"ໄຟລ໌ທີ່ແນບມານຳ ແມ່ນຖານຂໍ້ມູນຂອງລາຍຊື່ຜູ່ຕິດຕໍ່ຂອງຂ້ອຍ. ກະລຸນາຈັດການດ້ວຍຄວາມລະມັດລະວັງ."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"ເລືອກໂປຣແກຣມເພື່ອສົ່ງໄຟລ໌ຂອງທ່ານ"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"ແນບໄຟລ໌ຖານຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່ແລ້ວ"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"ເລີ່ມ​ຕົ້ນ"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"ສຳເນົາຖານຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="93961630309570294" name="default_directory">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"ອື່ນໆ"</string>
+    <string msgid="6012150850819899907" name="provider_label">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"ແອັບພລິເຄຊັນຫຼັກຂອງ Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"ກຳລັງອັບເກຣດຖານຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"ແຕະເພື່ອສິ້ນສຸດຂັ້ນຕອນການອັບເກຣດ."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"ການອັບເກຣດລາຍຊື່ຜູ່ຕິດຕໍ່ ຈະຕ້ອງໃຊ້ໜ່ວຍຄວາມຈຳເພີ່ມຕື່ມ."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"ອັບເກຣດບ່ອນຈັດເກັບຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"ຂໍ້ຄວາມສຽງຈາກ "</string>
+</resources>

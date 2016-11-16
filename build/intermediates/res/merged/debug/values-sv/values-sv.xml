@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Kontakter"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Du kommer att 1) kopiera din databas, inklusive alla kontaktuppgifter och samtalsloggar till det interna lagringsutrymmet, och 2) skicka det via e-post. Kom ihåg att ta bort kopian från enheten när kopieringen har slutförts eller när du har fått e-postmeddelandet."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Ta bort nu"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Jag bifogar min kontaktdatabas med alla mina kontaktuppgifter. Hantera den varsamt."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Välj program att skicka filen med"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Kontaktdatabas bifogad"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Börja"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kopiera kontaktdatabas"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kontakter"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Övrigt"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kontakter"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Kontaktdatabasen uppgraderas."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Tryck om du vill slutföra uppgraderingen."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Kontaktuppgradering kräver mer minne."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Lagringsutrymmet för kontakter uppgraderas"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Röstmeddelande från "</string>
+</resources>

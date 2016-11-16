@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Kontakte-Speicher"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Sie 1) erstellen eine Kopie Ihrer Datenbank, die alle Kontaktinformationen und Anruflisten auf dem internen Speicher enthält, und 2) senden diese Kopie per E-Mail. Denken Sie daran, die Kopie so schnell wie möglich zu löschen, nachdem Sie sie vom Gerät kopiert haben oder die E-Mail empfangen wurde."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Jetzt löschen"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Anbei meine Kontaktdatenbank mit allen Informationen zu meinen Kontakten. Bitte vertraulich behandeln!"</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Programm zum Senden der Datei auswählen"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Kontaktdatenbank angehängt"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Starten"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kontaktdatenbank kopieren"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kontakte"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Sonstige"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kontakte"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Kontaktdatenbank wird aktualisiert..."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Zum Abschluss des Upgrades berühren"</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Kontakte-Upgrade erfordert mehr Speicher."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Speicher für Kontakte wird aktualisiert..."</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Mailbox-Nachricht von "</string>
+</resources>

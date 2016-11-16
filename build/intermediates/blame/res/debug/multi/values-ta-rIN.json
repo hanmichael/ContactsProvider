@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 90,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 90,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 402,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 402,
+                        "endOffset": 2407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 97,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2412,
+                        "endColumn": 97,
+                        "endOffset": 2505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 185,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2851,
+                        "endColumn": 185,
+                        "endOffset": 3032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 133,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2600,
+                        "endColumn": 133,
+                        "endOffset": 2729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 116,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2734,
+                        "endColumn": 116,
+                        "endOffset": 2846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 89,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2510,
+                        "endColumn": 89,
+                        "endOffset": 2595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 107,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 107,
+                        "endOffset": 2004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 84,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1622,
+                        "endColumn": 84,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endColumn": 89,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 89,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 83,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 83,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 101,
+                    "endOffset": 1638
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 101,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1643,
+                    "endColumn": 111,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 111,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endColumn": 127,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 127,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endColumn": 152,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 152,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endColumn": 147,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 147,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endColumn": 103,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "C:\\Users\\caohaibin\\AndroidStudioProjects\\MyApplication\\ContactsProvider\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 103,
+                        "endOffset": 1896
+                    }
+                }
+            }
+        ]
+    }
+]

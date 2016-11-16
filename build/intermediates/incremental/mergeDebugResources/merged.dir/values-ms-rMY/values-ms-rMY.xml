@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Storan Kenalan"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Anda akan 1) membuat salinan pangkalan data anda yang termasuk semua maklumat berkaitan kenalan dan semua log panggilan ke storan dalaman dan 2) hantar melalui e-mel. Jangan lupa untuk memadam salinan ini sebaik sahaja anda telah berjaya menyalin daripada peranti atau apabila e-mel diterima."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Padamkan sekarang"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Dilampirkan pangkalan data kenalan saya yang mengandungi semua maklumat kenalan. Sila gunakan dengan cermat."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Pilih program untuk menghantar fail anda"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Pangkalan Data Kenalan dilampirkan"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Mula"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Salin pangkalan data kenalan"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kenalan"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Lain-lain"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kenalan"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Apl Teras Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Menaik taraf pangkalan data kenalan."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Sentuh untuk menyelesaikan peningkatan."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Peningkatan kenalan memerlukan lebih banyak memori."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Meningkatkan storan untuk kenalan"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Mel suara daripada "</string>
+</resources>

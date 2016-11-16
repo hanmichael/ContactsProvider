@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Adresatų saugykla"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Ketinate 1. sukurti duomenų, į kuriuos įtraukta visa su kontaktais susijusi informacija ir visi skambučių žurnalai, kopiją vidinėje atmintyje ir 2. išsiųsti ją el. paštu. Nepamirškite ištrinti kopijos, kai ją sėkmingai nukopijuosite iš įrenginio ar gausite el. laišką."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Ištrinti dabar"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Pridedami mano kontaktų duomenys su visa kontaktų informacija. Elkitės atsargiai."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Pasirinkite programą, kad išsiųstumėte failą"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Pridedami kontaktų duomenys"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Pradėti"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kopijuoti kontaktų duomenis"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kontaktai"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Kita"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Adresinė"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Pagrindinės „Android“ programos"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Naujovinami kontaktų duomenys."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Palieskite, kad baigtumėte naujovinti."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Norint naujovinti kontaktus, reikia daugiau atminties."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Naujovinama kontaktų atmintinė"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Balso pašto pranešimas nuo "</string>
+</resources>

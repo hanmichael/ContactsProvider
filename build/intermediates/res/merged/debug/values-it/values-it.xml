@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Archiviazione contatti"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Stai per 1) creare una copia del tuo database che include tutte le informazioni di contatto e tutti i registri chiamate nella memoria interna e 2) inviarla tramite email. Ricorda di eliminare la copia non appena è stata correttamente copiata dal dispositivo o non appena ricevi l\'email."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Elimina adesso"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"In allegato è presente il mio database di contatti contenente tutte le informazioni sui miei contatti. Trattare con cura."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Scegli un programma per inviare il file"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Database di contatti allegato"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Inizia"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Copia database di contatti"</string>
+    <string msgid="93961630309570294" name="default_directory">"Contatti"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Altro"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Contatti"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Applicazioni di base Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Upgrade del database dei contatti."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Tocca per completare l\'upgrade."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"L\'upgrade dei contatti richiede più memoria."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Upgrade dell\'archivio dei contatti"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Messaggio vocale da "</string>
+</resources>

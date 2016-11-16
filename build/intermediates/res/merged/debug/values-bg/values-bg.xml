@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Хранилище на контакти"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"На път сте 1) да направите копие във вътрешното хранилище на базата си от данни, което включва цялата свързана с контактите информация и всички списъци с обаждания, и 2) да го изпратите по имейл. Не забравяйте да го изтриете веднага след като го копирате успешно от устройството или когато имейлът е получен."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Изтриване сега"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Прикачена Ви изпращам базата от данни на контактите си заедно с цялата информация за тях. Бъдете внимателни."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Изберете програма, за да изпратите файла си"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Прикачена база от данни на контактите"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Начало"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Копиране на базата от данни на контактите"</string>
+    <string msgid="93961630309570294" name="default_directory">"Контакти"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Други"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Контакти"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Основни приложения на Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Базата от данни на контактите се надстройва."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Докоснете, за да завършите надстройването."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"За надстройването на контактите е необходима още памет."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Хранилището за контакти се надстройва"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Гласова поща от "</string>
+</resources>

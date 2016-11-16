@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"የዕውቂያ ማከማቻ"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"ይህንን ሊያደርጉ ነው፦ 1) ሁሉንም ከእውቂያዎች ጋር የተያያዙ መረጃዎችንና ሁሉንም የጥሪ ምዝግብ ማስታወሻዎችን የያዘው የውሂብ ጎታዎ ቅጂ በውስጣዊ ማከማቻው ላይ ሊያስቀምጡ ነው፤ እና 2) በኢሜይል ሊልኩት። ከመሣሪያው በተገለበጠ ጊዜ ወይም ኢሜይሉ ሲደርስ ወዲያውንኑ ቅጂውን መሰረዝ እንዳለብዎት ያስታውሱ።"</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"አሁን ሰርዝ"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"የእውቂያዎቼ የውሂብ ጎታ ከሁሉም የእውቂያዎቼ መረጃዎች ጋር አባሪ ተደርጓል። በደንብ ይጠበቅ።"</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"ፋይልዎትን የሚልኩበት ፕሮግራም ይምረጡ"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"የእውቂያዎች የውሂብ ጎታ ተያይዟል"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"ጀምር"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"የእውቂያዎች የውሂብ ጎታ ገልብጥ"</string>
+    <string msgid="93961630309570294" name="default_directory">"እውቅያዎች"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"ሌላ"</string>
+    <string msgid="6012150850819899907" name="provider_label">"እውቅያዎች"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"የAndroid ኮር ትግበራ"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"የእውቂያዎችን ውሂብ ጎታ በማሻሻል ላይ፡፡"</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"አሻሽሉን ለማላቅ ይንኩ"</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"የእውቅያዎች አልቅ ተጨማሪ ማህደረ ትውስታ ይፈልጋል"</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"ለእውቅያዎች ማከማቻ በማሻሻል ላይ"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"ከ....የድምፅ መልዕክት "</string>
+</resources>

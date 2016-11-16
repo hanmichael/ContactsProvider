@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Харилцагчдын сан"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Та 1) бүх харилцагчидтай холбоотой мэдээллүүд болон ярианы жагсаалтыг агуулсан өөрийн өгөгдлийн сангийн хуулбарыг дотоод санд хадгалах, мөн 2) имэйлдэх гэж байна. Та үүнийг төхөөрөмжөөсөө амжилттай хуулж дуусах буюу имэйлээр хүлээж авсны дараа устгах хэрэгтэйг санаарай."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Одоо устгах"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Хавсралтад миний бүх харилцагчийн мэдээлэл бүхий өгөгдлийн сан байгаа. Болгоомжтой харьцана уу."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Өөрийн файлийг илгээх програмыг сонгоно уу"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Харилцагчдын Db-г хавсаргав"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Эхлэх"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Харилцагчдын мэдээллийн санг хуулах"</string>
+    <string msgid="93961630309570294" name="default_directory">"Харилцагчид"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Бусад"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Харилцагчид"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Андройдын үндсэн апп-ууд"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Харилцагчдын өгөгдлийн санг сайжруулж байна."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Сайжруулалтыг дуусгахын тулд хүрнэ үү."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Харилцагчдын сайжруулалт хийхэд илүү их санах ой шаардлагатай."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Харилцагчдад зориулсан санг сайжруулж байна"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Дуут шуудан илгээгч "</string>
+</resources>

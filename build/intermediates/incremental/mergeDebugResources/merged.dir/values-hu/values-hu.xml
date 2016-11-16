@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Névjegytár"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Ön arra készül, hogy 1) másolatot készítsen a belső tárhelyre az adatbázisról, amely magában foglalja az összes névjegyet és minden kapcsolódó adatot, valamint a hívásnaplót, illetve hogy 2) e-mailben elküldje azt. Ne feledje azonnal törölni a másolatot, amint sikeresen átmásolta a készülékről, vagy amint megkapta az e-mailt."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Törlés most"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Csatolva a névjegyadatbázisom, amely a névjegyeim összes adatát tartalmazza. Óvatosan kezeld."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Válasszon programot a fájl elküldéséhez."</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Névjegyadatbázis csatolva."</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Indítás"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Névjegyadatbázis másolása"</string>
+    <string msgid="93961630309570294" name="default_directory">"Címtár"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Egyéb"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Címtár"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Alap Android-alkalmazások"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Névjegyek adatbázisának frissítése."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Érintse meg a frissítés befejezéséhez."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"A névjegyek frissítéséhez több memóriára van szükség."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Névjegyek tárolójának frissítése"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Hangüzenet tőle: "</string>
+</resources>

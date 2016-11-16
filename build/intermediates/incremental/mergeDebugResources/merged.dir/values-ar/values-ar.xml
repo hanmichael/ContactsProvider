@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"تخزين جهات الاتصال"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"أنت على وشك 1) إنشاء نسخة من قاعدة بياناتك التي تتضمن جميع المعلومات المرتبطة بجهات الاتصال وجميع سجلات المكالمات إلى وحدة التخزين الداخلية و2) إرسالها بالبريد الإلكتروني. تذكر حذف النسخة بمجرد إتمام نسخها من الجهاز أو تلقي الرسالة الإلكترونية."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"الحذف الآن"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"قاعدة بيانات جهات اتصالي والتي تحتوي على جميع المعلومات ذات الصلة بجهات الاتصال مرفقة. يرجى التعامل معها بحرص."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"اختر أحد البرامج لإرسال الملف"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"قاعدة بيانات جهات الاتصال مرفقة"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"البداية"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"نسخ قاعدة بيانات جهات الاتصال"</string>
+    <string msgid="93961630309570294" name="default_directory">"جهات الاتصال"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"غير ذلك"</string>
+    <string msgid="6012150850819899907" name="provider_label">"جهات الاتصال"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"‏تطبيقات Android المركزية"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"جارٍ ترقية قاعدة بيانات جهات الاتصال."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"المس لإكمال عملية الترقية."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"تتطلب ترقية جهات الاتصال مزيدًا من الذاكرة."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"ترقية وحدة التخزين لجهات الاتصال"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"بريد صوتي من "</string>
+</resources>

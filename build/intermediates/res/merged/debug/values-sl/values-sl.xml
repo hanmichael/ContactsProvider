@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Shramba za stike"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"V naslednjem koraku boste 1) naredili kopijo zbirke podatkov, ki vključuje vse informacije o stikih in celoten dnevnik klicev, v notranji pomnilnik ter 2) jo poslali. Ne pozabite izbrisati kopije iz naprave, ko jo boste uspešno kopirali oziroma ko jo boste prejeli po e-pošti."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Izbriši zdaj"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Priložena je zbirka podatkov z vsemi informacijami o stikih. Z e-pošto ravnajte previdno."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Izberite program za pošiljanje datoteke"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Priložena zbirka podatkov o stikih"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Začni"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kopiraj zbirko podatkov o stikih"</string>
+    <string msgid="93961630309570294" name="default_directory">"Stiki"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Drugo"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Stiki"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Osrednji programi sistema Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Nadgradnja zbirke podatkov stikov."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Dotaknite se, da končate nadgradnjo."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Za nadgradnjo stikov je potrebno več pomnilnika"</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Nadgradnja shrambe za stike"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Govorna pošta s številke "</string>
+</resources>

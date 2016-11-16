@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.godinsec.providers.contacts"
+    android:versionCode="1"
+    android:versionName="CP1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.WRITE_PROFILE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.BIND_DIRECTORY_SEARCH" />
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+    <uses-permission android:name="android.permission.MANAGE_USERS" />
+    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL" />
+    <uses-permission android:name="com.android.voicemail.permission.WRITE_VOICEMAIL" />
+    <uses-permission android:name="com.android.voicemail.permission.READ_VOICEMAIL" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_label" >
+        <provider
+            android:name="com.godinsec.providers.contacts.ContactsProvider2"
+            android:authorities="com.godinsec.contacts"
+            android:exported="true"
+            android:label="@string/provider_label"
+            android:multiprocess="false"
+            android:readPermission="android.permission.READ_CONTACTS"
+            android:writePermission="android.permission.WRITE_CONTACTS" >
+            <path-permission
+                android:pathPrefix="/search_suggest_query"
+                android:readPermission="android.permission.GLOBAL_SEARCH" />
+            <path-permission
+                android:pathPrefix="/search_suggest_shortcut"
+                android:readPermission="android.permission.GLOBAL_SEARCH" />
+            <path-permission
+                android:pathPattern="/contacts/.*/photo"
+                android:readPermission="android.permission.GLOBAL_SEARCH" />
+
+            <grant-uri-permission android:pathPattern=".*" />
+        </provider>
+        <provider
+            android:name="com.godinsec.providers.contacts.CallLogProvider"
+            android:authorities="com.godinsec.call_log"
+            android:exported="true"
+            android:multiprocess="false"
+            android:readPermission="android.permission.READ_CALL_LOG"
+            android:syncable="false"
+            android:writePermission="android.permission.WRITE_CALL_LOG" >
+        </provider>
+        <provider
+            android:name="com.godinsec.providers.contacts.VoicemailContentProvider"
+            android:authorities="com.godinsec.voicemail"
+            android:exported="true"
+            android:multiprocess="false"
+            android:permission="com.android.voicemail.permission.ADD_VOICEMAIL"
+            android:syncable="false" >
+        </provider>
+
+        <!-- Handles database upgrades after OTAs, then disables itself -->
+        <receiver android:name="com.godinsec.providers.contacts.ContactsUpgradeReceiver" >
+
+            <!--
+                 This broadcast is sent after the core system has finished
+                 booting, before the home app is launched or BOOT_COMPLETED
+                 is sent.
+            -->
+            <intent-filter>
+                <action android:name="android.intent.action.PRE_BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.godinsec.providers.contacts.PackageIntentReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_CHANGED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.godinsec.providers.contacts.LocaleChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.godinsec.providers.contacts.VoicemailCleanupService" />
+
+        <activity
+            android:name="com.godinsec.providers.contacts.debug.ContactsDumpActivity"
+            android:exported="true"
+            android:label="@string/debug_dump_title"
+            android:theme="@android:style/Theme.Holo.Dialog" >
+            <intent-filter>
+                <action android:name="com.godinsec.providers.contacts.DUMP_DATABASE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.godinsec.providers.contacts.debug.DumpFileProvider"
+            android:authorities="com.godinsec.dumpfile"
+            android:exported="true" >
+        </provider>
+    </application>
+
+</manifest>

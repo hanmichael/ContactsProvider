@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Hifadhi ya Anwani"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Unaelekea 1) kuunda nakala ya hifadhidata yako ambayo inajumuisha maelezo yote yanayohusiana na anwani na kumbukumbu zote za simu katika hifadhi ya ndani, na 2) uitume kwa barua pepe. Kumbuka kufuta nakala pindi tu utakapomaliza kuinakili kutoka kwenye kifaa au barua pepe itakapopokewa."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Futa sasa"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Kilichoambatishwa ni hifadhidata ya anwani zangu iliyo na maelezo yote ya anwani zangu. Ishughulikie kwa uangalifu."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Chagua programu ili kutuma faili yako"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Db ya anwani imeambatishwa"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Anza"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Nakili hifadhidata ya anwani"</string>
+    <string msgid="93961630309570294" name="default_directory">"Anwani"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Nyingineyo"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Anwani"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Programu Msingi za Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Inapandisha gredi hifadhidata ya Anwani."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Gusa ili kukamilisha kupandisha gredi."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Kupandishwa gredi kwa anwani kunahitaji kumbukumbu zaidi."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Inapandisha gredi hifadhi ya anwani"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Barua ya sauti kutoka "</string>
+</resources>

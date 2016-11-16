@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Almacenamento de contactos"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Estás a punto de 1) realizar unha copia da túa base de datos que inclúe toda a información relacionada cos contactos e todos os rexistros de chamadas no almacenamento interno, e de 2) envialo por correo electrónico. Non esquezas eliminar a copia en canto a copies correctamente fóra do dispositivo ou en canto se reciba o correo electrónico."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Eliminar agora"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"A miña base de datos de contactos con toda a información dos meus contactos vai anexada a esta mensaxe. Debe tratarse con coidado."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Escoller un programa para enviar o teu ficheiro"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Base de datos de contactos anexada"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Iniciar"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Copiar base de datos dos contactos"</string>
+    <string msgid="93961630309570294" name="default_directory">"Contactos"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Outro"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Contactos"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Aplicacións básicas de Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Actualizando a base de datos de contactos."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Toca para completar a actualización."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"A actualización dos contactos necesita máis memoria."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Actualizando almacenamento dos contactos"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Correo de voz de "</string>
+</resources>

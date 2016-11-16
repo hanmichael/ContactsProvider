@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Kontaktpersonu krātuve"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Jūs gatavojaties 1) iekšējā atmiņā izveidot savas datu bāzes kopiju, ietverot visu kontaktpersonu informāciju un visu zvanu žurnālu, un 2) nosūtīt to pa e-pastu. Dzēsiet kopiju, tiklīdz tā būs veiksmīgi kopēta no ierīces vai tiks saņemts attiecīgais e-pasta ziņojums."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Dzēst tūlīt"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Pielikumā ir pievienota mana kontaktpersonu datu bāze ar informāciju par visām manām kontaktpersonām. Rīkojieties uzmanīgi."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Izvēlieties programmu, kuru izmantot faila nosūtīšanai"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Pievienota kontaktpersonu datu bāze"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Sākt"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kontaktpersonu datu bāzes kopēšana"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kontaktpersonas"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Cits"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kontaktpersonas"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Notiek kontaktpersonu datu bāzes jaunināšana."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Pieskarieties, lai pabeigtu jaunināšanu."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Lai jauninātu kontaktpersonas, nepieciešams vairāk vietas atmiņā."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Notiek kontaktpersonu krātuves jaunināšana"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Balss pasta ziņojums no "</string>
+</resources>

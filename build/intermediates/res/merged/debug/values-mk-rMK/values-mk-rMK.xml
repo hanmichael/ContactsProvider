@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Меморирање контакти"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Вие 1) ќе направите копија на вашата база на податоци која ги опфаќа сите информации поврзани со контакти и сета евиденција на повици во внатрешната меморија и 2) ќе ја испратите по е-пошта. Не заборавајте да ја избришете копијата откако успешно сте ја ископирале од уредот или електронската порака е примена."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Избриши сега"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Во прилог е мојата база на податоци со контакти со сите информации за моите контакти. Ракувајте внимателно."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Избери програма за испраќање на твојата датотека"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Базата на податоци со контакти е приложена"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Започни"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Копирај база на податоци со контакти"</string>
+    <string msgid="93961630309570294" name="default_directory">"Контакти"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Друг"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Контакти"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Основни апликации на Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Надградување база на податоци со контакти."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Допри за да заврши надградбата."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"За надградбата на контакти е потребно повеќе меморија."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Надградување меморија за контакти"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Говорна пошта од "</string>
+</resources>

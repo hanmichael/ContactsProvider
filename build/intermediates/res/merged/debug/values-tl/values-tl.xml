@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Imbakan ng Mga Contact"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Ikaw ay 1) gagawa na ng kopya ng iyong database na kinapapalooban ng lahat ng impormasyong nauugnay sa mga contact at ng lahat ng log ng tawag sa panloob na storage, at 2) ipapadala mo na ito sa email. Alalahaning tanggalin ang kopya sa sandaling matagumpay mo na itong nakopya mula sa device o sa sandaling natanggap na ang email."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Tanggalin ngayon"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Naka-attach ang aking database ng mga contact na kasama ang lahat ng impormasyon ng aking mga contact. Pangasiwaan nang may pag-iingat."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Pumili ng program upang ipadala ang iyong file"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Naka-attach ang Contacts Db"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Simulan"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kopyahin ang database ng mga contact"</string>
+    <string msgid="93961630309570294" name="default_directory">"Mga Contact"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Iba pa"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Mga Contact"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Core Apps ng Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Ina-upgrade ang database ng mga contact."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Pindutin upang kumpletuhin ang pag-upgrade."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Nangangailangan ng higit pang memory ang pag-upgrade sa mga contact."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Ina-upgrade ang storage para sa mga contact"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Voicemail mula sa/kay "</string>
+</resources>

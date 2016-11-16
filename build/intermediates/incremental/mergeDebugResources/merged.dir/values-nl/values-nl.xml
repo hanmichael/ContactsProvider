@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Opslag contacten"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"U staat op het punt 1) een kopie van uw database met alle contactgegevens en oproeplogboeken te maken in de interne opslag, en 2) deze te e-mailen. Verwijder de kopie zodra u deze van het apparaat heeft gekopieerd of de e-mail is ontvangen."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Nu verwijderen"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Bijgevoegd is mijn contactendatabase met al mijn contactgegevens. Ga hier zorgvuldig mee om."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Selecteer een programma om uw bestand te verzenden"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Contactendatabase bijgevoegd"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Starten"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Contactendatabase kopiëren"</string>
+    <string msgid="93961630309570294" name="default_directory">"Contacten"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Overig"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Contacten"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Kernapps van Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Contactendatabase bijwerken."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Raak aan om de upgrade te voltooien."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Voor het bijwerken van contacten is meer geheugen nodig."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Opslag voor contacten bijwerken"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Voicemail van "</string>
+</resources>

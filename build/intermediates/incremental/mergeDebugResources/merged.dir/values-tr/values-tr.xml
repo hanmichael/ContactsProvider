@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Kişi Deposu"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Birazdan 1) veritabanınızın kişilerle ilgili tüm bilgilerini ve çağrı günlüğünün tamamını içeren bir kopyasını dahili depolama birimine kaydetmek ve 2) bunu e-postayla göndermek üzeresiniz. Bu kopyayı cihazın dışına aktardıktan veya e-posta alındıktan sonra hemen silmeyi unutmayın."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Şimdi sil"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Tüm kişi bilgilerimi içeren kişiler veritabanımı ekte bulabilirsiniz. Dikkatli kullanın."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Dosyanızı göndermek için bir program seçin"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Kişiler veritabanı ektedir"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Başlat"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kişiler veritabanını kopyala"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kişiler"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Diğer"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kişiler"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Çekirdek Uygulamaları"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Kişiler veritabanı yeni sürüme geçiriliyor."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Yeni sürüme geçmeyi tamamlamak için dokunun."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Kişileri yeni sürüme geçirmek için daha fazla bellek gerekiyor."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Kişiler için depolama alanı yeni sürüme geçiriliyor"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Sesli mesaj gönderen: "</string>
+</resources>

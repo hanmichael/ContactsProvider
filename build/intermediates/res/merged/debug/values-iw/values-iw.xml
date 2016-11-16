@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"אחסון אנשי קשר"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"אתה עומד 1) ליצור עותק באחסון הפנימי של מסד הנתונים שכולל את כל המידע הקשור לאנשי הקשר וכל יומני השיחות, 2) לשלוח אותו בדוא\"ל. זכור למחוק את העותק מיד לאחר שתעתיק אותו בהצלחה מהמכשיר או כשהודעת הדוא\"ל מתקבלת."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"מחק עכשיו"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"מצורף מסד הנתונים של אנשי הקשר שלי עם כל פרטי אנשי הקשר. שמור עליו היטב."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"בחר תכנית לשליחת הקובץ"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"מסד נתוני אנשי קשר מצורף"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"התחל"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"העתקת מסד נתוני אנשי קשר"</string>
+    <string msgid="93961630309570294" name="default_directory">"אנשי קשר"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"אחר"</string>
+    <string msgid="6012150850819899907" name="provider_label">"אנשי קשר"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"משדרג את מסד הנתונים של אנשי הקשר."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"גע כדי לבצע את השדרוג."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"שדרוג אנשי הקשר מחייב זיכרון נוסף."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"משדרג את האחסון של אנשי קשר"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"הודעה קולית מאת "</string>
+</resources>

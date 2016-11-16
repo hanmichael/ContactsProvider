@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"ที่จัดเก็บรายชื่อ"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"คุณกำลังจะ 1) ทำสำเนาฐานข้อมูลของคุณซึ่งรวมถึงข้อมูลที่เกี่ยวข้องกับผู้ติดต่อทั้งหมดและบันทึกการโทรทั้งหมดลงในที่จัดเก็บข้อมูลภายใน และ 2) ส่งอีเมล อย่าลืมลบสำเนาออกจากอุปกรณ์ทันทีที่คุณคัดลอกเสร็จเรียบร้อยแล้วหรือเมื่ออีเมลส่งไปถึงผู้รับแล้ว"</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"ลบเดี๋ยวนี้"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"ที่แนบอยู่นี้เป็นฐานข้อมูลผู้ติดต่อซึ่งมีข้อมูลผู้ติดต่อของฉันทั้งหมด โปรดจัดการด้วยความระมัดระวัง"</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"เลือกโปรแกรมเพื่อส่งไฟล์ของคุณ"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"แนบฐานข้อมูลผู้ติดต่อมาด้วย"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"เริ่มต้น"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"คัดลอกฐานข้อมูลผู้ติดต่อ"</string>
+    <string msgid="93961630309570294" name="default_directory">"สมุดโทรศัพท์"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"อื่นๆ"</string>
+    <string msgid="6012150850819899907" name="provider_label">"สมุดโทรศัพท์"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"แอปพลิเคชันหลักของ Android"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"กำลังอัปเกรดฐานข้อมูลสมุดโทรศัพท์"</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"แตะเพื่อทำการอัปเกรดให้สมบูรณ์"</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"ต้องใช้หน่วยความจำเพิ่มเพื่ออัปเกรดสมุดโทรศัพท์"</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"กำลังอัปเกรดที่จัดเก็บข้อมูลสำหรับสมุดโทรศัพท์"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"ข้อความเสียงจาก "</string>
+</resources>

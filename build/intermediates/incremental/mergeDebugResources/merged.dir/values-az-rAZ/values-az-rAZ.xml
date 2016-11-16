@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Kontakt Yaddaşı"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Siz 1) informasiyaya və daxili yaddaş ehtiyatındakı zəng jurnalına bağlı data bazanızın nüsxəsini hazırlamaq 2) və onu e-poçt ilə göndərmək üzrəsiniz. Onu cihazdan kənarda və ya alınmış e-məktubda uğurla kopyalayandan sonra nüsxəsini silməyi unutmayın."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"İndi silin"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"Qoşmada mənim bütün kontakt məlumatlarım olan kontakt data bazam var. Ehtiyatla idarə edin."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Faylınızı göndərmək üçün proqram seçin"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"Kontakt Db qoşulub"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Başladın"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Kontakt data bazasını kopyalayın"</string>
+    <string msgid="93961630309570294" name="default_directory">"Kontaktlar"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Digər"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Kontaktlar"</string>
+    <string msgid="8029809937805761356" name="read_write_all_voicemail_description">"Tətbiqə bu cihazın giriş əldə edə biləcəyi bütün səsli məktubları saxlamağa və əldə etməyə imkan verir."</string>
+    <string msgid="4557216100818257560" name="read_write_all_voicemail_label">"Bütün səsli məktublara giriş"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Kontakt data bazası təkmilləşdirilir."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Təkmilləşdirməni tamamlamaq üçün toxunun."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Kontakt təkmilləşdirməsi əlavə yaddaş tələb edir."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Kontakt üçün yaddaş təkmilləşdirilir."</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Səsli mesaj göndərən: "</string>
+</resources>

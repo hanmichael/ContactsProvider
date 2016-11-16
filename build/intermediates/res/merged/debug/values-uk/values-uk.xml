@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"Пам\'ять контактів"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"Ви збираєтеся: 1) скопіювати у внутрішню пам’ять свою базу даних, яка містить усю інформацію про контакти та весь журнал дзвінків; 2) надіслати копію електронною поштою. Не забудьте видалити копію, щойно її буде перенесено з пристрою або отримано електронним листом."</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"Видалити зараз"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"У вкладенні – база даних моїх контактів з усією інформацією про мої контакти. Працюйте з нею обережно."</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"Виберіть програму для надсилання файлу"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"У вкладенні – база даних контактів"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"Почати"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"Копіювати базу даних контактів"</string>
+    <string msgid="93961630309570294" name="default_directory">"Контакти"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"Інші"</string>
+    <string msgid="6012150850819899907" name="provider_label">"Контакти"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"Android Core Apps"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"Оновлення бази даних контактів."</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"Торкніться, щоб завершити оновлення."</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"Оновлення контактів потребує більше пам’яті."</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"Оновлення пам’яті для контактів"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"Голосова пошта від "</string>
+</resources>

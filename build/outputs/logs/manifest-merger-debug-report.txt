@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:1:1-113:12
+	package
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:2:9-50
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:4:5-72
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:4:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:5:22-70
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_PROFILE
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.BIND_DIRECTORY_SEARCH
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.UPDATE_APP_OPS_STATS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:13:22-74
+uses-permission#android.permission.INTERACT_ACROSS_USERS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.MANAGE_USERS
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:15:22-68
+uses-permission#com.android.voicemail.permission.ADD_VOICEMAIL
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:16:5-86
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:16:22-83
+uses-permission#com.android.voicemail.permission.WRITE_VOICEMAIL
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:17:22-85
+uses-permission#com.android.voicemail.permission.READ_VOICEMAIL
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:18:5-87
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:18:22-84
+application
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:20:5-112:19
+	android:label
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:21:9-42
+	android:allowBackup
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:23:9-36
+	android:icon
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:22:9-42
+provider#com.godinsec.providers.contacts.ContactsProvider2
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:25:9-42:20
+	android:readPermission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:30:13-70
+	android:authorities
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:26:13-56
+	android:label
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:27:13-51
+	android:multiprocess
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:28:13-41
+	android:exported
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:25:19-51
+	android:writePermission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:31:13-72
+path-permission
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:32:13-34:81
+	android:readPermission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:34:21-78
+	android:pathPrefix
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:33:21-63
+grant-uri-permission
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:41:13-62
+	android:pathPattern
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:41:35-59
+provider#com.godinsec.providers.contacts.CallLogProvider
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:44:9-50:20
+	android:readPermission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:48:13-70
+	android:authorities
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:45:13-56
+	android:multiprocess
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:46:38-66
+	android:syncable
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:46:13-37
+	android:exported
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:44:19-49
+	android:writePermission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:49:13-72
+provider#com.godinsec.providers.contacts.VoicemailContentProvider
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:52:9-57:20
+	android:authorities
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:53:13-57
+	android:multiprocess
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:54:38-66
+	android:syncable
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:54:13-37
+	android:exported
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:55:13-36
+	android:permission
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:56:13-80
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:52:19-58
+receiver#com.godinsec.providers.contacts.ContactsUpgradeReceiver
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:60:9-67:20
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:60:19-57
+intent-filter#android.intent.action.PRE_BOOT_COMPLETED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:64:13-66:29
+action#android.intent.action.PRE_BOOT_COMPLETED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:65:17-82
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:65:25-80
+receiver#com.godinsec.providers.contacts.PackageIntentReceiver
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:69:9-86:20
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:69:19-55
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:70:13-73:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:71:25-75
+data
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:72:17-50
+	android:scheme
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:72:23-47
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:74:13-77:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:75:17-81
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:75:25-78
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:78:13-81:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:79:17-80
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:79:25-77
+intent-filter#android.intent.action.PACKAGE_CHANGED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.PACKAGE_CHANGED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:83:17-80
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:83:25-77
+receiver#com.godinsec.providers.contacts.LocaleChangeReceiver
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:88:9-92:20
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:88:19-54
+intent-filter#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:89:13-91:29
+action#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:90:17-78
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:90:25-76
+service#com.godinsec.providers.contacts.VoicemailCleanupService
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:94:9-58
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:94:18-56
+activity#com.godinsec.providers.contacts.debug.ContactsDumpActivity
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:96:9-105:20
+	android:label
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:97:17-57
+	android:exported
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:99:17-40
+	android:theme
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:98:17-65
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:96:19-61
+intent-filter#android.intent.category.DEFAULT+com.godinsec.providers.contacts.DUMP_DATABASE
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:101:13-104:29
+action#com.godinsec.providers.contacts.DUMP_DATABASE
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:102:17-87
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:102:25-85
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:103:17-75
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:103:27-73
+provider#com.godinsec.providers.contacts.debug.DumpFileProvider
+ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:107:9-110:20
+	android:authorities
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:108:13-56
+	android:exported
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml:107:19-57
+uses-sdk
+INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml
+		INJECTED from C:\Users\caohaibin\AndroidStudioProjects\MyApplication\ContactsProvider\AndroidManifest.xml

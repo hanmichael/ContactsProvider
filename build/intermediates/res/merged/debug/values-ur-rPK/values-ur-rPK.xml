@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3389954322874982620" name="app_label">"رابطوں کا اسٹوریج"</string>
+    <string msgid="406438635002392290" name="debug_dump_database_message">"آپ 1) اپنے اس ڈیٹابیس کو جس میں رابطوں سے متعلق سبھی معلومات اور داخلی اسٹوریج میں کال لاگ کی معلومات شامل ہے کاپی کرنے اور 2) اسے ای میل کرنے والے ہیں۔ آلے سے باہر کامیابی کے ساتھ کاپی کر لینے یا ای میل موصول ہو جانے کے ساتھ ہی کاپی کو یاد سے حذف کر دیں۔"</string>
+    <string msgid="7832879421132026435" name="debug_dump_delete_button">"ابھی حذف کریں"</string>
+    <string msgid="4577749800871444318" name="debug_dump_email_body">"میرے سبھی رابطوں کی معلومات پر مشتمل میرے رابطوں کا ڈیٹابیس منسلک ہے۔ احتیاط استعمال کریں۔"</string>
+    <string msgid="3534420908672176460" name="debug_dump_email_sender_picker">"اپنی فائل بھیجنے کیلئے کوئی پروگرام منتخب کریں"</string>
+    <string msgid="108188398416385976" name="debug_dump_email_subject">"‏رابطوں کا Db منسلک ہے"</string>
+    <string msgid="2837506913757600001" name="debug_dump_start_button">"شروع کریں"</string>
+    <string msgid="4916885724165570279" name="debug_dump_title">"رابطوں کا ڈیٹابیس کاپی کریں"</string>
+    <string msgid="93961630309570294" name="default_directory">"رابطے"</string>
+    <string msgid="705244318477396120" name="local_invisible_directory">"دیگر"</string>
+    <string msgid="6012150850819899907" name="provider_label">"رابطے"</string>
+    <string msgid="8024311725474286801" name="sharedUserLabel">"‏Android کور ایپس"</string>
+    <string msgid="8640807392794309950" name="upgrade_msg">"رابطوں کا ڈیٹابیس اپ گریڈ ہو رہا ہے۔"</string>
+    <string msgid="8438179450336437626" name="upgrade_out_of_memory_notification_text">"اپ گریڈ مکمل کرنے کیلئے ٹچ کریں۔"</string>
+    <string msgid="7638747231223520477" name="upgrade_out_of_memory_notification_ticker">"رابطوں کے اپ گریڈ کیلئے مزید میموری درکار ہے۔"</string>
+    <string msgid="8888171924684998531" name="upgrade_out_of_memory_notification_title">"رابطوں کیلئے اسٹوریج اپ گریڈ ہو رہا ہے"</string>
+    <string msgid="435732568832121444" name="voicemail_from_column">"صوتی میل منجانب "</string>
+</resources>
